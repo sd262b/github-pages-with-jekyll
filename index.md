@@ -1,3 +1,2 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+# Welcome to my Personal Website.
+I will share content on this page as part of my project for GitHub. Stay tuned for content!!
