@@ -1,2 +1,3 @@
 # Welcome to my Personal Website.
-I will share content on this page as part of my project for GitHub. Stay tuned for content!!
+I'm glad you made it to my page. Stay tuned for content!!
+![Cats are cool](https://www.istockphoto.com/vector/hipster-cat-smoking-gm1016389516-273442166)
